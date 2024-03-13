@@ -1,0 +1,3 @@
+https://www.dllme.com/dll/files/rxtxserial/3f9e9e49d96aea344953c939a2638d01/download#dl
+http://rxtx.qbang.org/wiki/index.php/Installation_for_Windows
+https://stackoverflow.com/questions/14952922/how-to-add-rxtxserial-in-java-library-path
